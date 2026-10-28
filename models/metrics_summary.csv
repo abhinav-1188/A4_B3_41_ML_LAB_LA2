@@ -1,0 +1,7 @@
+Model,Accuracy,Precision (Weighted),Recall (Weighted),F1-Score (Weighted),F1-Score (Macro),Train Time (s),Inference Latency (ms/sample)
+Support Vector Machine (Linear SVM),100.0,100.0,100.0,100.0,100.0,1.453,0.261
+Support Vector Machine (RBF SVM),99.48,99.57,99.48,99.49,99.45,1.77,0.313
+Random Forest Classifier,99.48,99.54,99.48,99.48,99.57,0.406,0.087
+Decision Tree Classifier,100.0,100.0,100.0,100.0,100.0,0.127,0.004
+K-Nearest Neighbors (KNN),98.96,99.11,98.96,98.96,98.75,0.001,0.08
+Multinomial Naive Bayes (Baseline),98.96,99.11,98.96,98.96,98.75,0.005,0.005
